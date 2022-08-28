@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Art1809
-- 👀 I’m interested in Java programming (as a beginer).
+- 👀 I’m interested in WebDev and JavaScript programming (as a beginer).
 - 🌱 I’m currently learning on my own.
 - 💞️ I’m looking to collaborate on at any point of beginer programming.
 - 📫 To reach me, email me)
